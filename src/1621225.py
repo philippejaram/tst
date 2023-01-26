@@ -4,6 +4,10 @@ import turtle as t
 import random as r
 import time
 
+class teste2:
+    asdf=  []
+    def __init__(self):
+        v = 1
 
 class test:
     abc = []
